@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ssh-test:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2026-04-21T12:23:45.028056015Z"
+    description: A minimal SSH daemon exposed via NodePort for testing
+    digest: 1a4e79d36042f61e9f0ae53df0ebbb7c4ce77b7eea4bdccff2f96faefc050b22
+    name: ssh-test
+    type: application
+    urls:
+    - https://monotch-research.github.io/helm-charts/ssh-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-21T12:23:45.027060619Z"
